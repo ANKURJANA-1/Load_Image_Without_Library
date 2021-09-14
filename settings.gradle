@@ -1,0 +1,2 @@
+rootProject.name = "IDScanning project"
+include ':app'
